@@ -1,0 +1,5 @@
+- 👋 Oi, meu nome é @evandromateus eu sou estudante de desenvolvimento web e Técnico em Informática
+- 👀 Atualmente procurando por uma primeira oportunidade na area de desenvolvimento web e finalmente colocar meu conhecimento em prática
+- 🌱 Atualmente estou estudando o desenvolvimento de API com NodeJS com a implementação de testes TDD com JEST
+- :bulb: Tenho conhecimento em HTML, CSS, JS, NodeJS, MySQL, MongoDB
+- 📫 Pode entrar em contato comigo pelo meu email: evandromateus06@gmail.com ou pelo twitter @evanndromat
