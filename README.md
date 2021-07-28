@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é @evandromateus, sou estudante de desenvolvimento web e Técnico em Informática
+- 👋 Oi, meu nome é @evandromateus, tenho 20 anos, sou estudante de desenvolvimento web e formado em Técnico em Informática
 - 👀 Procurando por uma primeira oportunidade na area de desenvolvimento web e finalmente colocar meu conhecimento em prática
 - 🌱 Atualmente estou estudando o desenvolvimento de API com NodeJS com a implementação de testes TDD com JEST
 - :bulb: Tenho conhecimento em HTML, CSS, JS, NodeJS, MySQL, MongoDB
