@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é @evandromateus, tenho 20 anos e sou desenvolvedor web
+- 👋 Oi, meu nome é @evandromateus, tenho 21 anos e sou desenvolvedor web
 - 👀 Procurando por uma primeira oportunidade na area de desenvolvimento web e finalmente colocar meu conhecimento em prática
 - 🌱 Atualmente estou estudando o desenvolvimento de API com NodeJS e o frontend com VUE
 - :bulb: Tenho conhecimento em HTML, CSS, JS, NodeJS, MySQL, MongoDB
